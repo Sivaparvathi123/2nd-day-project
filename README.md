@@ -1,1 +1,1 @@
-# 2nd-day-project
+# Oak-D model deployment
